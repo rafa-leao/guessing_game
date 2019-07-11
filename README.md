@@ -1,6 +1,6 @@
 # guessing_game
 
-I where on high school and I was bored. 
+I were on high school and I was bored. 
 
 So I just did this game (which every one learns when starts at programming) to pratice Js.
 
